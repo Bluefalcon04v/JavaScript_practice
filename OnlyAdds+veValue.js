@@ -5,7 +5,7 @@ let PositiveAdder = (num1,num2) => {
         console.log(num1 + num2);
     }
     else{
-        console.log("it's negative vlues please give positive values only");
+        console.log("it's negative values, please give positive values only.");
     }
 }
 
