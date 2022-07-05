@@ -1,4 +1,4 @@
 # JavaScript_practice
 learning JavaScript and practicing questions  
 
-It REPO just contains the basic code of JavaScript. 
+It repositories contains the basic code of JavaScript. 
