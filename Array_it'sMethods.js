@@ -1,5 +1,5 @@
 // Creating Arrays and Fetching data from it, Arrays Methods
-// "Arrays" in arrays it can have "Same values" and it stores data in ordered list.
+// "Arrays" in arrays it can Stores "Same values" and it stores data in ordered list ie. we can use INDEX values to call them
 
 let values = [2, , 4, 'Hello', {tech:'javaScript'}, function(){console.log("i love JS");}];
 console.log(values);
