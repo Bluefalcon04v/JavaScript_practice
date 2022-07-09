@@ -6,7 +6,6 @@ Learn JavaScript and Practice the Basics.
 
 
 ### Summary
----
 This repositorie contains the basic code of JavaScript. That includes 
 - Basic of Console statements 
 - If, Else, Else If loops
@@ -26,7 +25,7 @@ This repositorie contains the basic code of JavaScript. That includes
 
 
 ### Run locally
----
+***
 Steps to run in your Machine
 > Run this Command `git clone https://github.com/Bluefalcon04v/JavaScript_practice.git`
 > 
@@ -40,5 +39,5 @@ You are now in the dev environment and you can play around
 
 
 ### Tech Used
----
+***
 Vanilla JavaScript
