@@ -1,4 +1,37 @@
-# JavaScript_practice
-learning JavaScript and practicing questions  
+# JavaScript 
+---
+### Task
+Learn JavaScript and Practice the Basics.
+----
 
-It repositories contains the basic code of JavaScript. 
+
+### Summary 
+This repositorie contains the basic code of JavaScript. That includes 
+- Basic of Console statements 
+- If, Else, Else If loops
+- For loop, While loop, Do While loop
+- Reversing Numbers using While loop
+- About Objects and Complex Objects 
+- About Functions
+- Function Return and Passing Values
+- About Method
+- Constructor Function
+- About Arrays and it's Methods 
+- For OF loop and For Each loop 
+- Destructuring Arrays 
+- Filter, map and reduce Array Method
+- About Set 
+- About Map
+
+
+### Run locally
+steps to run in your machine
+> Run this Command git clone https://github
+> Run npm install 
+> Double check your ports that can usually cause errors 😉
+> Run npm run start-dev
+You are now in the dev environment and you can play around
+
+
+### Tech Used
+Vanilla JavaScript
