@@ -5,7 +5,8 @@ Learn JavaScript and Practice the Basics.
 ----
 
 
-### Summary 
+### Summary
+---
 This repositorie contains the basic code of JavaScript. That includes 
 - Basic of Console statements 
 - If, Else, Else If loops
@@ -25,15 +26,19 @@ This repositorie contains the basic code of JavaScript. That includes
 
 
 ### Run locally
+---
 Steps to run in your Machine
->>> 
- Run this Command `git clone https://github.com/Bluefalcon04v/JavaScript_practice.git`
- Run `npm install` 
- Double check your ports that can usually cause errors 😉
- Run `npm run start-dev`
->>>
+> Run this Command `git clone https://github.com/Bluefalcon04v/JavaScript_practice.git`
+> 
+> Run `npm install` 
+> 
+> Double check your ports that can usually cause errors 😉
+> 
+> Run `npm run start-dev`
+>
 You are now in the dev environment and you can play around
 
 
 ### Tech Used
+---
 Vanilla JavaScript
