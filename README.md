@@ -25,12 +25,12 @@ This repositorie contains the basic code of JavaScript. That includes
 
 
 ### Run locally
-steps to run in your machine
-> Run this Command git clone https://github.com/Bluefalcon04v/JavaScript_practice.git
- Run npm install 
+Steps to run in your Machine
+>>> Run this Command `git clone https://github.com/Bluefalcon04v/JavaScript_practice.git`
+ Run `npm install` 
  Double check your ports that can usually cause errors 😉
- Run npm run start-dev
->
+ Run `npm run start-dev`
+>>>
 You are now in the dev environment and you can play around
 
 
