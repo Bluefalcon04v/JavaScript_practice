@@ -1,10 +1,8 @@
 # JavaScript 
----
 
 ## Task
-Learn JavaScript and Practice the Basics.
+ To Learn JavaScript and Practice the Basics.
 ----
-
 
 ### Summary
 This repositorie contains the basic code of JavaScript. That includes 
@@ -23,7 +21,7 @@ This repositorie contains the basic code of JavaScript. That includes
 - Filter, map and reduce Array Method
 - About Set 
 - About Map
----
+***
 
 ### Run locally
 Steps to run in your Machine
@@ -37,7 +35,6 @@ Steps to run in your Machine
 >
  You are now in the dev environment and you can play around
 ---
-
 
 ### Tech Used
 Vanilla JavaScript
