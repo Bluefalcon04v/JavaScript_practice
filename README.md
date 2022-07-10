@@ -2,7 +2,7 @@
 
 
 ### Task
- To Learn JavaScript and Practice the Basics.
+To Learn JavaScript and Practice the Basics.
 ----
 
 ### Summary
@@ -34,7 +34,7 @@ Steps to run in your Machine
 > 
 > Run `npm run start-dev`
 >
- You are now in the dev environment and you can play around
+You are now in the dev environment and you can play around
 ---
 
 ### Tech Used
