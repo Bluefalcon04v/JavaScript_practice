@@ -16,3 +16,8 @@ console.log( map.values()); // getting values of the Map
 for (let [key, value] of map){
     console.log("printing Map key and values =   " + key," : " ,value);
 }
+
+// with FOREACH loop
+// let foreach(v, k) => {
+//     console.log(k," : " ,v);
+// }
