@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(20, 62, 62);
+}
+
+.container{
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2{
+    color: #7adcf6;
+    font-size: 30px;
+}
+
+.list-items{
+    list-style: none;
+    font-size: 20px;
+    margin: 11px;
+    padding: 12px 30px;
+    border: 2px solid #c3c3fc;
+}
