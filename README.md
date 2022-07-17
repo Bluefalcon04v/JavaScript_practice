@@ -23,6 +23,7 @@ This repositorie contains the basic code of JavaScript. That includes
 - Filter, map and reduce Array Method
 - About Set 
 - About Map
+**UPDATE IT ABOUT DOM**
 ***
 
 ### Run locally
