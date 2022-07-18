@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color:#5e7b71;
+}
+
+#main-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+}
+
+.boxes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    padding: 4px;
+    width: 200px;
+    height: 160px;
+    border: 2px solid white;
+}
+button{
+    width: inherit;
+    height: 36px;
+    background-color: burlywood;
+}
