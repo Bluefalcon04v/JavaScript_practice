@@ -31,8 +31,11 @@
     height: 160px;
     border: 2px solid white;
 }
+
 button{
     width: inherit;
     height: 36px;
-    background-color: burlywood;
+    background-color: #77af3fed;
+    border-style: hidden;
+    border: 2px solid greenyellow;
 }
