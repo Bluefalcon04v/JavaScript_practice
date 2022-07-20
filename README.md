@@ -23,7 +23,14 @@ This repositorie contains the basic code of JavaScript. That includes
 - Filter, map and reduce Array Method
 - About Set 
 - About Map
-- **UPDATE IT ABOUT DOM**
+> ABOUT DOM
+> - How to Select items in DOM
+> - How to change CSS properties using JS
+> - Creating Elements and Modifying them using JS 
+> - Traverse the Elements in DOM
+> - Event Listener
+> - Event Bubbling and Event Capturing 
+> - Event Delegation 
 ***
 
 ### Run locally
