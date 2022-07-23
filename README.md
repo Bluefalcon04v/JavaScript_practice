@@ -24,6 +24,7 @@ This repositorie contains the basic code of JavaScript. That includes
 - About Set 
 - About Map
 - About Call, Apply, Bind Methods
+- About Prototype and Prototype Inheritance
 > ABOUT DOM
 > - How to Select items in DOM
 > - How to change CSS properties using JS
