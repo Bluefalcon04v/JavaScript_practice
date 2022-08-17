@@ -13,6 +13,7 @@ This repositorie contains the basic code of JavaScript. That includes
 - For loop, While loop, Do While loop
 - Reversing Numbers using While loop
 - About Objects and Complex Objects 
+- About Object's Regular Expressions
 - About Functions
 - Function Return and Passing Values
 - About Method
