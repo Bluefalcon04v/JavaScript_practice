@@ -8,26 +8,27 @@ To Learn JavaScript and Practice the Basics.
 
 ### Summary
 This repositorie contains the basic code of JavaScript. That includes 
-- Basic of Console statements 
-- If, Else, Else If loops
+- About Method
+- Destructuring Arrays 
+- About Arrays and it's Methods 
+- About Call, Apply, Bind Methods
+- About Functions
 - For loop, While loop, Do While loop
+- Filter, map and reduce Array Method
+- For OF loop and For Each loop 
+- Function Return and Passing Values
+- About Hoisting
+- If, Else, Else If loops
+- About Map
+- About Object's Regular Expressions
+- About Prototype and Prototype Inheritance
+- Basic of Console statements 
 - Reversing Numbers using While loop
 - About Objects and Complex Objects 
-- About Object's Regular Expressions
-- About Functions
-- Function Return and Passing Values
-- About Method
 - Constructor Function
-- About Arrays and it's Methods 
-- For OF loop and For Each loop 
-- Destructuring Arrays 
-- Filter, map and reduce Array Method
 - About Set 
-- About Map
-- About Call, Apply, Bind Methods
-- About Prototype and Prototype Inheritance
+- About Spread Operator Arrays
 - About "this" keyword
-- About Hoisting
 > ABOUT DOM
 > - How to Select items in DOM
 > - How to change CSS properties using JS
