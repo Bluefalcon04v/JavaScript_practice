@@ -18,5 +18,3 @@ console.log(values);
 values.unshift(3, 10)         // to push element in array at first place
 console.log(values);
 console.log(values.length);    // to check the length of the array
-values.splice(2, 3, 'Hey', 'Bye');  // '2' indicates index value, '3' indicates number of values to remove, rest will be replacing the removed values
-console.log(values);
