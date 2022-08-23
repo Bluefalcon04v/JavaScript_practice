@@ -28,6 +28,7 @@ This repositorie contains the basic code of JavaScript. That includes
 - Constructor Function
 - About Set 
 - About Spread Operator Arrays
+- About Splice and Slice Array Methods
 - About "this" keyword
 > ABOUT DOM
 > - How to Select items in DOM
